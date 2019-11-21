@@ -1,4 +1,11 @@
 title: Skapa en egen kurs
-description: Course description goes here.
+description: |-
+  Bygg en notebook.
+  -Import av data
+  -Statistiska analyser
+  -Visualiseringar
+  -Andra källor (Öj gr kommunrapporter, Datastory t.ex.)
+  -Exportering, LaTeX
+  -
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
